@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+pyvenv.cfg
+Lib
+Scripts
+include
+build
+dist
+plob.ogg
+pong_v2.spec
